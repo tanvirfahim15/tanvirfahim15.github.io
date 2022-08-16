@@ -13,7 +13,25 @@
       let url = window.location.href;
       let start = url.search("/courses");
       let end = url.search("/index");
-      console.log(url.slice(start,end));
+      let contents = url.slice(start,end);
+      var xhr = new XMLHttpRequest();
+      xhr.open('GET', "https://api.github.com/repositories/518082775/contents/" + contents, true);
+      xhr.responseType = 'json';
+      xhr.onload = function() {
+        var status = xhr.status;
+          if (status === 200) {
+            for(var i = 0; i< xhr.response.length;i++){
+              var name = xhr.response[i]["name"];
+              if (name.endsWith(".html")){
+                continue;
+              }
+              var link = url.replace("index.html","")+ name;
+              document.getElementById("files").innerHTML += '<li class="list-group-item"><a href="'+link+'" style="text-decoration: none">'+name+'</a></li>'
+            }
+          }
+        };
+      xhr.send();
+
     }
   </script>
 
@@ -59,11 +77,8 @@
       <li class="breadcrumb-item active" aria-current="page">CSE 101, Section 4</li>
     </ol>
   </nav>
-  <ul class="list-group">
-    <li class="list-group-item bg-dark text-white">Marks</li>
-    <li class="list-group-item"><a href="/courses/2022/CSE_101_4_EWU/101%20quiz%201.pdf" style="text-decoration: none">Quiz 1</a></li>
-    <li class="list-group-item"><a href="/courses/2022/CSE_101_4_EWU/101%20mid1.pdf" style="text-decoration: none">Mid-term 1</a></li>
-    <li class="list-group-item"><a href="/courses/2022/CSE_101_4_EWU/101%20quiz%202.pdf" style="text-decoration: none">Quiz 2</a></li>
+  <ul class="list-group" id="files">
+    <li class="list-group-item bg-dark text-white">Files</li>
   </ul>
 </div>
 
