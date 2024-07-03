@@ -37,16 +37,29 @@ I am currently pursuing my Master of Science degree from the Department of Compu
 
 <div class='paper-box-text' markdown="1">
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+- **Discovering Interesting Patterns from Hypergraphs**  
+  Alam, M. T., Ahmed, C. F., Samiullah, M., & Leung, C. K. S. (2023)  
+  ACM Transactions on Knowledge Discovery from Data
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+- **UGMINE: utility-based graph mining**  
+  Alam, M., Roy, A., Ahmed, C. F., Islam, M., Leung, C. K. (2022)  
+  Applied Intelligence, Vol. 53 (pp. 4968)
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-</div>
-</div>
+- **Discriminating frequent pattern based supervised graph embedding for classification**  
+  Alam, M., Ahmed, C. F., Samiullah, M., Leung, C. K. (2021, May)  
+  In Pacific-Asia Conference on Knowledge Discovery and Data Mining (pp. 16-28). Springer, Cham
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+- **Mining frequent patterns from hypergraph databases**  
+  Alam, M., Ahmed, C. F., Samiullah, M., Leung, C. K. (2021, May)  
+  In Pacific-Asia Conference on Knowledge Discovery and Data Mining (pp. 3-15). Springer, Cham
+
+- **Mining High Utility Subgraphs**  
+  Alam, M. T., Roy, A., Ahmed, C. F., Islam, M. A., Leung, C. K. (2021, December)  
+  In 2021 International Conference on Data Mining Workshops (ICDMW) (pp. 566-573). IEEE
+
+- **Bard: Bangla article classification using a new comprehensive dataset**  
+  Alam, M. T., Islam, M. M. (2018, September)  
+  In 2018 International Conference on Bangla Speech and Language Processing
 
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
