@@ -20,13 +20,17 @@ redirect_from:
 I am currently pursuing my Master of Science degree from the Department of Computer Science and Engineering, University of Dhaka. I have completed my Bachelor of Science degree from the same institution with the highest CGPA (3.96 out of 4.0) among 65 students. I am currently working as a lecturer at the Department of Computer Science and Engineering, East West University also. I have worked on several research projects and my research interests include data mining, graph mining, and machine learning. I have founded a SAAS startup named Xupri.
              
 
-# 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Luyuyuyuyu, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.
+
+**Master of Science (2020 - 2022)**  
+Department of Computer Science and Engineering, University of Dhaka, Bangladesh  
+GPA: **4.00/4.00** (Ranked **1st**)  
+
+**Bachelor of Science (2016 - 2019)**  
+Department of Computer Science and Engineering, University of Dhaka, Bangladesh  
+GPA: **3.96/4.00** (Ranked **1st**)  
 
 # 📝 Publications 
 
