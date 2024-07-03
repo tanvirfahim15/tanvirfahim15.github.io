@@ -59,7 +59,7 @@ I am currently pursuing my Master of Science degree from the Department of Compu
   Md. Ashraful Islam, Chowdhury Farhan Ahmed, **Md. Tanvir Alam**, and Carson Kai-Sang Leung  
   Applied Intelligence, Vol. 54 (pp. 3756–3785)
   
-<span class='anchor' id='teaching'></span
+<span class='anchor' id='teaching'></span>
 # 📝 Teaching Experiences  
 - **Lecturer** [2023-Present]  
   Department of Computer Science and Engineering, **University of Dhaka**, Bangladesh.  
@@ -68,7 +68,7 @@ I am currently pursuing my Master of Science degree from the Department of Compu
 - **Lecturer** [2022-2023]  
   Department of Computer Science and Engineering, **East West University**, Bangladesh.  
   Courses Taught: Web Programming, Advanced Database Systems, Computer Architecture.
-<span class='anchor' id='research'></span
+<span class='anchor' id='research'></span>
 # 🧪 Research Experiences
 
 - **Research Assistant, Regional Collaborations Programme, Australian Academy of Science** [2021-2022]  
@@ -92,7 +92,7 @@ I am currently pursuing my Master of Science degree from the Department of Compu
   Project title: Developing Efficient Technique to Detect False Facts Using Knowledge Graph and Bayesian Network-Based Models  
   - Developed an algorithm for mining features from knowledge graphs and performed experimental analysis
 
-<span class='anchor' id='awards'></span
+<span class='anchor' id='awards'></span>
 # 🎖 Honors and Awards
 - [2022] - **Deans Award**, awarded by the Faculty of Engineering and Technology, University of Dhaka, in recognition of outstanding academic achievement in Bachelor of Science with honours.  
 - [2022] - **Azfar Alam Memorial Gold Medal**, awarded by the University of Dhaka for obtaining the highest CGPA in the Bachelor of Science examination of 2019.  
@@ -109,7 +109,7 @@ I am currently pursuing my Master of Science degree from the Department of Compu
 - **Winner, Student to Startup, Chapter 2** [2019]
   - A startup pitch competition organized by the ICT Division, Bangladesh
   - Pitched and developed an image search-based solution for fashion product search engine
-<span class='anchor' id='grants'></span
+<span class='anchor' id='grants'></span>
 # 🏆 Grants
 - **Master’s Fellowship** [2020]
   - A fellowship worth 3,30,000 BDT
@@ -117,4 +117,4 @@ I am currently pursuing my Master of Science degree from the Department of Compu
   - For conducting master’s thesis research work titled “Hypergraph Mining Methodologies”
 
 - **Bangabandhu Innovation Grant** [2019]
-  - A grant worth BDT 1 million was awarded by Startup Bangladesh Limited
+  - Startup Bangladesh Limited awarded a grant worth BDT 1 million
