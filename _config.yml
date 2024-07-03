@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Md. Tanvir Alam"
-description              : "Lecturer<br/> Department of CSE<br/> University of Dhaka <br/> <a href='/Tanvir_CV.pdf'>Resume</a>"
+description              : "Lecturer<br/> Department of CSE<br/> University of Dhaka <br/> <span style='color:blue'><a href='/Tanvir_CV.pdf'>Resume</a></span>"
 repository               : 
 google_scholar_stats_use_cdn : false
 
