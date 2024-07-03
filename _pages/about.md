@@ -96,5 +96,16 @@ I am currently pursuing my Master of Science degree from the Department of Compu
 - [2022] - **Deans Award**, awarded by the Faculty of Engineering and Technology, University of Dhaka, in recognition of outstanding academic achievement in Bachelor of Science with honours.  
 - [2022] - **Azfar Alam Memorial Gold Medal**, awarded by the University of Dhaka for obtaining the highest CGPA in the Bachelor of Science examination of 2019.  
 - [2022] - **Talentpool Scholarship**, awarded by the Directorate of Secondary and Higher Education, Government of Bangladesh for obtaining the highest CGPA in the Bachelor of Science examination.  
-  2022
+  2022  
+- [2022] - **Professor Lutfar Rahman Merit Award**, Awarded by the Department of Computer Science and Engineering, University of Dhaka for securing highest CGPA in theBachelor of Science examination of 2019.
+  
+# 🏆 ACHIEVEMENTS
+- **Champion, Code Samurai Inter-University Hackathon** [2019]
+  - A day-long inter-university hackathon organized by a Bangladesh-Japan venture company, BJIT Limited
+  - A total of 34 teams participated in the hackathon
+  - Developed a solution for automated traffic management in Dhaka city based on real data
+
+- **Winner, Student to Startup, Chapter 2** [2019]
+  - A startup pitch competition organized by the ICT Division, Bangladesh
+  - Pitched and developed an image search-based solution for fashion product search engine
 
