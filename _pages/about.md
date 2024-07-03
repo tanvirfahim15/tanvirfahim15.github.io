@@ -99,7 +99,7 @@ I am currently pursuing my Master of Science degree from the Department of Compu
 - [2022] - **Talentpool Scholarship**, awarded by the Directorate of Secondary and Higher Education, Government of Bangladesh for obtaining the highest CGPA in the Bachelor of Science examination.  
   2022  
 - [2022] - **Professor Lutfar Rahman Merit Award**, Awarded by the Department of Computer Science and Engineering, University of Dhaka for securing highest CGPA in theBachelor of Science examination of 2019.
-<span class='anchor' id='achievementss'></span
+<span class='anchor' id='achievements'></span>
 # 🏆 Achievements
 - **Champion, Code Samurai Inter-University Hackathon** [2019]
   - A day-long inter-university hackathon organized by a Bangladesh-Japan venture company, BJIT Limited
