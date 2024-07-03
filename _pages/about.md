@@ -37,29 +37,29 @@ I am currently pursuing my Master of Science degree from the Department of Compu
 
 <div class='paper-box-text' markdown="1">
 
-- **Discovering Interesting Patterns from Hypergraphs**  
-  Alam, M. T., Ahmed, C. F., Samiullah, M., & Leung, C. K. S. (2023)  
-  ACM Transactions on Knowledge Discovery from Data
+- **[Discovering Interesting Patterns from Hypergraphs](https://dl.acm.org/doi/abs/10.1145/3622940)**  
+  **Md. Tanvir Alam**, Chowdhury Farhan Ahmed, Md. Samiullah, and Carson Kai-Sang Leung  
+  ACM Transactions on Knowledge Discovery from Data 18 (1), 1-34 **(ACM TKDD)** [2023]
 
-- **UGMINE: utility-based graph mining**  
-  Alam, M., Roy, A., Ahmed, C. F., Islam, M., Leung, C. K. (2022)  
-  Applied Intelligence, Vol. 53 (pp. 4968)
+- **[Discriminating frequent pattern based supervised graph embedding for classification](https://dl.acm.org/doi/10.1007/978-3-030-75765-6_2)**  
+  **Md. Tanvir Alam**, Chowdhury Farhan Ahmed, Md. Samiullah, and Carson K. Leung  
+  25th Pacific-Asia Conference on Knowledge Discovery and Data Mining **(PAKDD)** [2021]
 
-- **Discriminating frequent pattern based supervised graph embedding for classification**  
-  Alam, M., Ahmed, C. F., Samiullah, M., Leung, C. K. (2021, May)  
-  In Pacific-Asia Conference on Knowledge Discovery and Data Mining (pp. 16-28). Springer, Cham
+- **[Mining frequent patterns from hypergraph databases](https://dl.acm.org/doi/abs/10.1007/978-3-030-75765-6_1)**  
+  **Md. Tanvir Alam**, Chowdhury Farhan Ahmed, Md. Samiullah, and Carson K. Leung  
+  25th Pacific-Asia Conference on Knowledge Discovery and Data Mining **(PAKDD)** [2021]
 
-- **Mining frequent patterns from hypergraph databases**  
-  Alam, M., Ahmed, C. F., Samiullah, M., Leung, C. K. (2021, May)  
-  In Pacific-Asia Conference on Knowledge Discovery and Data Mining (pp. 3-15). Springer, Cham
+- **[Mining High Utility Subgraphs](https://ieeexplore.ieee.org/document/9679947)**  
+  Md. Tanvir Alam, Amit Roy, Chowdhury Farhan Ahmed, Md. Ashraful Islam, Carson K. Leung  
+  2021 International Conference on Data Mining Workshops **(ICDMW)** [2021]
 
-- **Mining High Utility Subgraphs**  
-  Alam, M. T., Roy, A., Ahmed, C. F., Islam, M. A., Leung, C. K. (2021, December)  
-  In 2021 International Conference on Data Mining Workshops (ICDMW) (pp. 566-573). IEEE
+- **[UGMINE: utility-based graph mining](https://link.springer.com/article/10.1007/s10489-022-03385-8)**  
+  **Md. Tanvir Alam**, Amit Roy, Chowdhury Farhan Ahmed, Md. Ashraful Islam & Carson K. Leung  
+  Applied Intelligence, Vol. 53 (pp. 4968) [2022]
 
-- **Bard: Bangla article classification using a new comprehensive dataset**  
-  Alam, M. T., Islam, M. M. (2018, September)  
-  In 2018 International Conference on Bangla Speech and Language Processing
+- **[Graph-based substructure pattern mining with edge-weight](https://link.springer.com/article/10.1007/s10489-024-05356-7)**  
+  Md. Ashraful Islam, Chowdhury Farhan Ahmed, **Md. Tanvir Alam** & Carson Kai-Sang Leung  
+  Applied Intelligence, Vol. 54 (pp. 3756–3785) [2024]
 
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
