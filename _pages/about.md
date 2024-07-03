@@ -21,7 +21,7 @@ I am currently pursuing my Master of Science degree from the Department of Compu
              
 
 
-
+<span class='anchor' id='educations'></span>
 # 📖 Educations
 
 - **Master of Science [2020 - 2022]**  
@@ -32,7 +32,8 @@ I am currently pursuing my Master of Science degree from the Department of Compu
   Department of Computer Science and Engineering, University of Dhaka, Bangladesh  
   GPA: **3.96/4.00** (Ranked **1st**)  
 
-# 📝 Publications 
+<span class='anchor' id='publications'></span>
+# 📝 Selected Publications 
 
 
 <div class='paper-box-text' markdown="1">
