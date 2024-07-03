@@ -3,8 +3,8 @@ main:
   - title: "CV"
     url: "/Tanvir_CV.pdf"
 
-  - title: "Educations"
-    url: "/#-educations"
+  - title: "Education"
+    url: "/#-education"
     
   - title: "Publications"
     url: "#publications"
