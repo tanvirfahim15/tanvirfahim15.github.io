@@ -62,7 +62,7 @@ I am currently pursuing my Master of Science degree from the Department of Compu
 # 📝 Teaching Experience  
 - **Lecturer** [2023-Present]  
   Department of Computer Science and Engineering, **University of Dhaka**, Bangladesh.  
-  Courses Taught: Multivariable Calculus and Geometry, Numerical Methods, Fundamentals of Programming Lab, Application Development Lab, Design and Analysis of Algorithms - I Lab.
+  Courses Taught: Data Structures and Algorithms, Multivariable Calculus and Geometry, Numerical Methods, Fundamentals of Programming Lab, Application Development Lab, Design and Analysis of Algorithms - I Lab.
 
 - **Lecturer** [2022-2023]  
   Department of Computer Science and Engineering, **East West University**, Bangladesh.  
