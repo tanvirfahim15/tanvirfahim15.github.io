@@ -70,24 +70,24 @@ I am currently pursuing my Master of Science degree from the Department of Compu
 
 # 🧪 Research Experience
 
-- Research Assistant, Regional Collaborations Programme, **Australian Academy of Science**[2021-2022]  
+- Research Assistant, Regional Collaborations Programme, **Australian Academy of Science** [2021-2022]  
   Project title: Geo-spatial transfer learning based rumour-spreading trend analysis to detect fake news about COVID-19 and on the effects of its vaccines  
   - Developed an algorithm for analyzing information-spreading trends presented as edge-ordered graphs  
   - Assessed the performance of the algorithm by conducting experimental analysis on data sets  
   - Collaborated with co-authors to prepare a manuscript for publication  
 
-- Research Assistant, **Brown University, United States**[2021]  
+- Research Assistant, **Brown University, United States** [2021]  
     Project title: Making Meaning of Gendered Violence and the Law: Global Discourses and Local Realities in Bangladesh  
   - Constructed a corpus for textual analysis of gendered violence in Bangladesh  
   - Devised and applied a technique for cleaning topic-wise text data from numerous sources  
 
-- Research Assistant, Department of ICT, **Ministry of PTIT, Bangladesh**[2020-2021]  
+- Research Assistant, Department of ICT, **Ministry of PTIT, Bangladesh** [2020-2021]  
   Project title: DrAi: Artificial Intelligence and Pattern Recognition Driven Assistant for Providing Effective Treatment  
   - Supervised the development team of the software system  
   - Designed the machine learning pipeline, conducted data collection, model development, and deployment  
   - Collaborated in preparing manuscripts for publication and project reports  
 
-- Research Assistant, **Data Mining Research Group, Department of CSE, University of Dhaka**[2021-2022]  
+- Research Assistant, **Data Mining Research Group, Department of CSE, University of Dhaka** [2021-2022]  
   Project title: Developing Efficient Technique to Detect False Facts Using Knowledge Graph and Bayesian Network-Based Models  
   - Developed an algorithm for mining features from knowledge graphs and performed experimental analysis
 
