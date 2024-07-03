@@ -1,7 +1,7 @@
 # main links links
 main:
-  - title: "About Me"
-    url: "/#about-me"
+  - title: "CV"
+    url: "/Tanvir_CV.pdf"
 
   - title: "News"
     url: "/#-news"
