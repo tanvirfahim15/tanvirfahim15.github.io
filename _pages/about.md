@@ -17,13 +17,12 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-<div style="text-align: justify;">
+
   
 I am currently a lecturer in the Department of Computer Science and Engineering at the University of Dhaka. I completed my Bachelor of Science and Master of Science degrees from the same institution with the highest CGPA. My undergraduate and master's thesis have been supervised by [Prof. Dr. Chowdhury Farhan Ahmed](https://scholar.google.com/citations?user=0huuef0AAAAJ). I worked on several research projects and published in journals and conferences, including ***ACM TKDD, PAKDD, and ICDMW***. My research interests include, but are not limited to, ***machine learning on graphs, graph mining, graph neural networks, and graph anomaly detection***. 
 
 I am a dedicated and passionate researcher ***seeking PhD opportunities*** to advance my expertise and contribute to innovative research. 
-
-</div>             
+          
 
 <span class='anchor' id='education'></span>
 
