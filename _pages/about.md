@@ -22,7 +22,7 @@ I am currently pursuing my Master of Science degree from the Department of Compu
 
 
 <span class='anchor' id='educations'></span>
-# 📖 Educations
+# 🎓 Educations
 
 - **Master of Science [2020 - 2022]**  
   Department of Computer Science and Engineering, University of Dhaka, Bangladesh  
@@ -59,9 +59,18 @@ I am currently pursuing my Master of Science degree from the Department of Compu
   Md. Ashraful Islam, Chowdhury Farhan Ahmed, **Md. Tanvir Alam** & Carson Kai-Sang Leung  
   Applied Intelligence, Vol. 54 (pp. 3756–3785) [2024]
 
+# 📚 Teaching Experience
+- **Lecturer** [2023-Present]
+  Department of Computer Science and Engineering, University of Dhaka, Bangladesh.
+  Courses Taught: Multivariable Calculus and Geometry, Numerical Methods, Fundamentals of Programming Lab, Application Development Lab, Design and Analysis of Algorithms - I Lab.
+
+- **Lecturer** [2022-2023]
+  Department of Computer Science and Engineering, East West University, Bangladesh.
+  Courses Taught: Web Programming, Advanced Database Systems, Computer Architecture.
+
+
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
- 
 
 
