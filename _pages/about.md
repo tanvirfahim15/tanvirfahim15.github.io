@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently pursuing my Master of Science degree from the Department of Computer Science and Engineering, University of Dhaka. I have completed my Bachelor of Science degree from the same institution with the highest CGPA (3.96 out of 4.0) among 65 students. I am currently working as a lecturer at the Department of Computer Science and Engineering, East West University also. I have worked on several research projects and my research interests include data mining, graph mining, and machine learning. I have founded a SAAS startup named Xupri.
+I am currently a lecturer in the Department of Computer Science and Engineering at the University of Dhaka. I completed my Bachelor of Science and Master of Science degrees from the same institution with the highest CGPA. I have worked on several research projects. My research interests include data mining, graph mining, and machine learning. 
              
 
 
