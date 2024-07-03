@@ -22,7 +22,7 @@ I am currently pursuing my Master of Science degree from the Department of Compu
 
 
 <span class='anchor' id='educations'></span>
-# 🎓 Educations
+# 🎓 Education
 
 - **Master of Science [2020 - 2022]**  
   Department of Computer Science and Engineering, University of Dhaka, Bangladesh  
@@ -99,7 +99,9 @@ I am currently pursuing my Master of Science degree from the Department of Compu
 - [2022] - **Talentpool Scholarship**, awarded by the Directorate of Secondary and Higher Education, Government of Bangladesh for obtaining the highest CGPA in the Bachelor of Science examination.  
   2022  
 - [2022] - **Professor Lutfar Rahman Merit Award**, Awarded by the Department of Computer Science and Engineering, University of Dhaka for securing highest CGPA in theBachelor of Science examination of 2019.
+
 <span class='anchor' id='achievements'></span>
+
 # 🏆 Achievements
 - **Champion, Code Samurai Inter-University Hackathon** [2019]
   - A day-long inter-university hackathon organized by a Bangladesh-Japan venture company, BJIT Limited
@@ -110,6 +112,7 @@ I am currently pursuing my Master of Science degree from the Department of Compu
   - A startup pitch competition organized by the ICT Division, Bangladesh
   - Pitched and developed an image search-based solution for fashion product search engine
 <span class='anchor' id='grants'></span>
+
 # 🏆 Grants
 - **Master’s Fellowship** [2020]
   - A fellowship worth 3,30,000 BDT
