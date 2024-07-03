@@ -116,7 +116,7 @@ I am currently pursuing my Master of Science degree from the Department of Compu
   - Pitched and developed an image search-based solution for fashion product search engine
 <span class='anchor' id='grants'></span>
 
-# 🏆 Grants
+# 💰 Grants
 - **Master’s Fellowship** [2020]
   - A fellowship worth 3,30,000 BDT
   - Awarded by ICT Innovation Fund, ICT Division, Bangladesh
