@@ -3,17 +3,25 @@ main:
   - title: "CV"
     url: "/Tanvir_CV.pdf"
 
+  - title: "Educations"
+    url: "/#-educations"
+    
   - title: "Publications"
     url: "#publications"
+
+    
+  - title: "Teaching"
+    url: "/#teaching"
+    
+  - title: "Research"
+    url: "/#research"
 
   - title: "Honors and Awards"
     url: "#awards"
 
-  - title: "Educations"
-    url: "/#-educations"
 
-  - title: "Invited Talks"
-    url: "/#-invited-talks"
+  - title: "Achievements"
+    url: "/#achievements"
 
-  - title: "Internships"
-    url: "/#-internships"
+  - title: "Grants"
+    url: "/#grants"
