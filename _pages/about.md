@@ -33,7 +33,7 @@ I am currently pursuing my Master of Science degree from the Department of Compu
   GPA: **3.96/4.00** (Ranked **1st**)  
 
 <span class='anchor' id='publications'></span>
-# 📝 Selected Publications 
+# 📚 Selected Publications 
 
 - **[Discovering Interesting Patterns from Hypergraphs](https://dl.acm.org/doi/abs/10.1145/3622940)** [2023]  
   **Md. Tanvir Alam**, Chowdhury Farhan Ahmed, Md. Samiullah, and Carson Kai-Sang Leung  
@@ -59,7 +59,7 @@ I am currently pursuing my Master of Science degree from the Department of Compu
   Md. Ashraful Islam, Chowdhury Farhan Ahmed, **Md. Tanvir Alam**, and Carson Kai-Sang Leung  
   Applied Intelligence, Vol. 54 (pp. 3756–3785)
 
-# 📚 Teaching Experience  
+# 📝 Teaching Experience  
 - **Lecturer** [2023-Present]  
   Department of Computer Science and Engineering, **University of Dhaka**, Bangladesh.  
   Courses Taught: Multivariable Calculus and Geometry, Numerical Methods, Fundamentals of Programming Lab, Application Development Lab, Design and Analysis of Algorithms - I Lab.
