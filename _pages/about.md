@@ -21,7 +21,8 @@ I am currently pursuing my Master of Science degree from the Department of Compu
              
 
 
-<span class='anchor' id='educations'></span>
+<span class='anchor' id='education'></span>
+
 # 🎓 Education
 
 - **Master of Science [2020 - 2022]**  
