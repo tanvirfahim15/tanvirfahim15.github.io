@@ -58,8 +58,9 @@ I am currently pursuing my Master of Science degree from the Department of Compu
 - **[Graph-based substructure pattern mining with edge-weight](https://link.springer.com/article/10.1007/s10489-024-05356-7)** [2024]  
   Md. Ashraful Islam, Chowdhury Farhan Ahmed, **Md. Tanvir Alam**, and Carson Kai-Sang Leung  
   Applied Intelligence, Vol. 54 (pp. 3756–3785)
-
-# 📝 Teaching Experience  
+  
+<span class='anchor' id='teaching'></span
+# 📝 Teaching Experiences  
 - **Lecturer** [2023-Present]  
   Department of Computer Science and Engineering, **University of Dhaka**, Bangladesh.  
   Courses Taught: Data Structures and Algorithms, Multivariable Calculus and Geometry, Numerical Methods, Fundamentals of Programming Lab, Application Development Lab, Design and Analysis of Algorithms - I Lab.
@@ -67,8 +68,8 @@ I am currently pursuing my Master of Science degree from the Department of Compu
 - **Lecturer** [2022-2023]  
   Department of Computer Science and Engineering, **East West University**, Bangladesh.  
   Courses Taught: Web Programming, Advanced Database Systems, Computer Architecture.
-
-# 🧪 Research Experience
+<span class='anchor' id='research'></span
+# 🧪 Research Experiences
 
 - **Research Assistant, Regional Collaborations Programme, Australian Academy of Science** [2021-2022]  
   Project title: Geo-spatial transfer learning based rumour-spreading trend analysis to detect fake news about COVID-19 and on the effects of its vaccines  
@@ -91,14 +92,14 @@ I am currently pursuing my Master of Science degree from the Department of Compu
   Project title: Developing Efficient Technique to Detect False Facts Using Knowledge Graph and Bayesian Network-Based Models  
   - Developed an algorithm for mining features from knowledge graphs and performed experimental analysis
 
-
+<span class='anchor' id='awards'></span
 # 🎖 Honors and Awards
 - [2022] - **Deans Award**, awarded by the Faculty of Engineering and Technology, University of Dhaka, in recognition of outstanding academic achievement in Bachelor of Science with honours.  
 - [2022] - **Azfar Alam Memorial Gold Medal**, awarded by the University of Dhaka for obtaining the highest CGPA in the Bachelor of Science examination of 2019.  
 - [2022] - **Talentpool Scholarship**, awarded by the Directorate of Secondary and Higher Education, Government of Bangladesh for obtaining the highest CGPA in the Bachelor of Science examination.  
   2022  
 - [2022] - **Professor Lutfar Rahman Merit Award**, Awarded by the Department of Computer Science and Engineering, University of Dhaka for securing highest CGPA in theBachelor of Science examination of 2019.
-  
+<span class='anchor' id='achievementss'></span
 # 🏆 Achievements
 - **Champion, Code Samurai Inter-University Hackathon** [2019]
   - A day-long inter-university hackathon organized by a Bangladesh-Japan venture company, BJIT Limited
@@ -108,7 +109,7 @@ I am currently pursuing my Master of Science degree from the Department of Compu
 - **Winner, Student to Startup, Chapter 2** [2019]
   - A startup pitch competition organized by the ICT Division, Bangladesh
   - Pitched and developed an image search-based solution for fashion product search engine
-
+<span class='anchor' id='grants'></span
 # 🏆 Grants
 - **Master’s Fellowship** [2020]
   - A fellowship worth 3,30,000 BDT
