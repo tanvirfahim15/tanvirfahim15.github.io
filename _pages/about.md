@@ -69,7 +69,9 @@ I am currently pursuing my Master of Science degree from the Department of Compu
 - **Lecturer** [2022-2023]  
   Department of Computer Science and Engineering, **East West University**, Bangladesh.  
   Courses Taught: Web Programming, Advanced Database Systems, Computer Architecture.
+  
 <span class='anchor' id='research'></span>
+
 # 🧪 Research Experiences
 
 - **Research Assistant, Regional Collaborations Programme, Australian Academy of Science** [2021-2022]  
