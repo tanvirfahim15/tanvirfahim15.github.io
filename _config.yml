@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Md. Tanvir Alam"
-description              : "Lecturer, Department of CSE, University of Dhaka"
+description              : "Lecturer<br/> Department of CSE<br/> University of Dhaka"
 repository               : 
 google_scholar_stats_use_cdn : false
 
@@ -21,7 +21,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Lorem ipsum"
+  name             : "Md. Tanvir Alam"
   avatar           : "images/android-chrome-512x512.png"
   bio              : ""
   location         : "Dhaka, Bangladesh"
