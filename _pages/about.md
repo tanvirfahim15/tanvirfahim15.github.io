@@ -35,9 +35,6 @@ I am currently pursuing my Master of Science degree from the Department of Compu
 <span class='anchor' id='publications'></span>
 # 📝 Selected Publications 
 
-
-<div class='paper-box-text' markdown="1">
-
 - **[Discovering Interesting Patterns from Hypergraphs](https://dl.acm.org/doi/abs/10.1145/3622940)**  
   **Md. Tanvir Alam**, Chowdhury Farhan Ahmed, Md. Samiullah, and Carson Kai-Sang Leung  
   ACM Transactions on Knowledge Discovery from Data 18 (1), 1-34 **(ACM TKDD)** [2023]
