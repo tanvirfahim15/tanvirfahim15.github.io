@@ -3,14 +3,11 @@ main:
   - title: "CV"
     url: "/Tanvir_CV.pdf"
 
-  - title: "News"
-    url: "/#-news"
-
   - title: "Publications"
-    url: "/#-publications"
+    url: "#publications"
 
   - title: "Honors and Awards"
-    url: "/#-honors-and-awards"
+    url: "#awards"
 
   - title: "Educations"
     url: "/#-educations"
