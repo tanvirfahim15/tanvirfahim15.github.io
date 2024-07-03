@@ -24,13 +24,13 @@ I am currently pursuing my Master of Science degree from the Department of Compu
 
 # 📖 Educations
 
-**Master of Science (2020 - 2022)**  
-Department of Computer Science and Engineering, University of Dhaka, Bangladesh  
-GPA: **4.00/4.00** (Ranked **1st**)  
+- **Master of Science (2020 - 2022)**  
+  Department of Computer Science and Engineering, University of Dhaka, Bangladesh  
+  GPA: **4.00/4.00** (Ranked **1st**)  
 
-**Bachelor of Science (2016 - 2019)**  
-Department of Computer Science and Engineering, University of Dhaka, Bangladesh  
-GPA: **3.96/4.00** (Ranked **1st**)  
+- **Bachelor of Science (2016 - 2019)**  
+  Department of Computer Science and Engineering, University of Dhaka, Bangladesh  
+  GPA: **3.96/4.00** (Ranked **1st**)  
 
 # 📝 Publications 
 
