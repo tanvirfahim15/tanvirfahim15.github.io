@@ -6,8 +6,8 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Lorem ipsum"
-description              : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. "
+title                    : "Md. Tanvir Alam"
+description              : "I am currently pursuing my Master of Science degree from the Department of Computer Science and Engineering, University of Dhaka. I have completed my Bachelor of Science degree from the same institution with the highest CGPA (3.96 out of 4.0) among 65 students. I am currently working as a lecturer at the Department of Computer Science and Engineering, East West University also. I have worked on several research projects and my research interests include data mining, graph mining, and machine learning. I have founded a SAAS startup named Xupri."
 repository               : "RayeRen/acad-homepage.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,13 +23,13 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Lorem ipsum"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "Lorem ipsum College"
-  location         : "Beijing, China"
+  bio              : "I am currently pursuing my Master of Science degree from the Department of Computer Science and Engineering, University of Dhaka. I have completed my Bachelor of Science degree from the same institution with the highest CGPA (3.96 out of 4.0) among 65 students. I am currently working as a lecturer at the Department of Computer Science and Engineering, East West University also. I have worked on several research projects and my research interests include data mining, graph mining, and machine learning. I have founded a SAAS startup named Xupri."
+  location         : "Dhaka, Bangladesh"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
-  email            : "Lorem@ipsum.com"
-  researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
+  googlescholar    : "https://scholar.google.com/citations?user=QYdCC6cAAAAJ"
+  email            : "tanvir15@du.ac.bd"
+  researchgate     :  
   uri              :
   bitbucket        :
   codepen          :
@@ -37,7 +37,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : # e.g., "github username"
+  github           : "tanvirfahim15"
   google_plus      :
   keybase          :
   instagram        :
