@@ -7,9 +7,9 @@
 
 # Site Settings
 title                    : "Md. Tanvir Alam"
-description              : "I am currently pursuing my Master of Science degree from the Department of Computer Science and Engineering, University of Dhaka. I have completed my Bachelor of Science degree from the same institution with the highest CGPA (3.96 out of 4.0) among 65 students. I am currently working as a lecturer at the Department of Computer Science and Engineering, East West University also. I have worked on several research projects and my research interests include data mining, graph mining, and machine learning. I have founded a SAAS startup named Xupri."
-repository               : "RayeRen/acad-homepage.github.io"
-google_scholar_stats_use_cdn : true
+description              : "Lecturer, Department of CSE, University of Dhaka"
+repository               : 
+google_scholar_stats_use_cdn : false
 
 # google analytics
 google_analytics_id      :  # get google_analytics_id from https://analytics.google.com/analytics/
@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Lorem ipsum"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "I am currently pursuing my Master of Science degree from the Department of Computer Science and Engineering, University of Dhaka. I have completed my Bachelor of Science degree from the same institution with the highest CGPA (3.96 out of 4.0) among 65 students. I am currently working as a lecturer at the Department of Computer Science and Engineering, East West University also. I have worked on several research projects and my research interests include data mining, graph mining, and machine learning. I have founded a SAAS startup named Xupri."
+  bio              : ""
   location         : "Dhaka, Bangladesh"
   employer         :
   pubmed           : 
