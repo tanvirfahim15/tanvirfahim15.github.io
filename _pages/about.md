@@ -54,7 +54,7 @@ I am a dedicated and passionate researcher <b>seeking PhD opportunities</b> to a
   25th Pacific-Asia Conference on Knowledge Discovery and Data Mining **(PAKDD)**
 
 - **[Mining High Utility Subgraphs](https://ieeexplore.ieee.org/document/9679947)** [2021]  
-  Md. Tanvir Alam, Amit Roy, Chowdhury Farhan Ahmed, Md. Ashraful Islam, and Carson Kai-Sang Leung  
+  **Md. Tanvir Alam**, Amit Roy, Chowdhury Farhan Ahmed, Md. Ashraful Islam, and Carson Kai-Sang Leung  
   2021 International Conference on Data Mining Workshops **(ICDMW)**
 
 - **[UGMINE: utility-based graph mining](https://link.springer.com/article/10.1007/s10489-022-03385-8)** [2022]  
