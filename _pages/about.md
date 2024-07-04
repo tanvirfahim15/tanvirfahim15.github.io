@@ -19,7 +19,7 @@ redirect_from:
 
 <div style="text-align: justify;">
   
-I am currently working as a lecturer in the Department of Computer Science and Engineering at the University of Dhaka. I completed my Bachelor of Science and Master of Science degrees from the same institution with the highest CGPA. My undergraduate and master's thesis have been supervised by <a href="https://scholar.google.com/citations?user=0huuef0AAAAJ">Prof. Dr. Chowdhury Farhan Ahmed</a>. I have worked on several research projects and have published in journals and conferences, including <b>ACM TKDD, PAKDD, and ICDMW</b>, with over <b>150</b> citations. My research interests include, but are not limited to, <b>machine learning on graphs, graph mining, graph neural networks, and graph anomaly detection</b>.  
+I am currently working as a lecturer in the Department of Computer Science and Engineering at the University of Dhaka. I completed my Bachelor of Science and Master of Science degrees from the same institution with the highest CGPA. My undergraduate and master's theses were supervised by <a href="https://scholar.google.com/citations?user=0huuef0AAAAJ">Prof. Dr. Chowdhury Farhan Ahmed</a>. I have worked on several research projects and have published in journals and conferences, including <b>ACM TKDD, PAKDD, and ICDMW</b>, with over <b>150</b> citations. My research interests include, but are not limited to, <b>machine learning on graphs, graph mining, graph neural networks, and graph anomaly detection</b>.  
 <br/><br/>
 I am a dedicated and passionate researcher <b>seeking PhD opportunities</b> to advance my expertise and contribute to innovative research. 
 
