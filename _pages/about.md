@@ -39,7 +39,11 @@ I am a dedicated and passionate researcher <b>seeking PhD opportunities</b> to a
   GPA: **3.96/4.00** (Ranked **1st**)  
 
 <span class='anchor' id='publications'></span>
-# 📚 Selected Publications 
+# 📚 Publications 
+
+- **[Hyperedge Anomaly Detection with Hypergraph Neural Network](https://tanvirfahim15.github.io/Hyperedge_Anomaly_Detection_with_Hypergraph_Neural_Network__preprint_.pdf)** [2024]  
+  **Md. Tanvir Alam**, Chowdhury Farhan Ahmed, and Carson Kai-Sang Leung  
+   Under Review 
 
 - **[Discovering Interesting Patterns from Hypergraphs](https://dl.acm.org/doi/abs/10.1145/3622940)** [2023]  
   **Md. Tanvir Alam**, Chowdhury Farhan Ahmed, Md. Samiullah, and Carson Kai-Sang Leung  
@@ -64,6 +68,10 @@ I am a dedicated and passionate researcher <b>seeking PhD opportunities</b> to a
 - **[Graph-based substructure pattern mining with edge-weight](https://link.springer.com/article/10.1007/s10489-024-05356-7)** [2024]  
   Md. Ashraful Islam, Chowdhury Farhan Ahmed, **Md. Tanvir Alam**, and Carson Kai-Sang Leung  
   Applied Intelligence, Vol. 54 (pp. 3756–3785)
+  
+- **[Bard: Bangla article classification using a new comprehensive dataset](https://ieeexplore.ieee.org/abstract/document/8554382/)** [2018]  
+  **Md Tanvir Alam**, Md Mofijul Islam  
+  2018 International Conference on Bangla Speech and Language Processing (ICBSLP)
   
 <span class='anchor' id='teaching'></span>
 # 📝 Teaching Experiences  
