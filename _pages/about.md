@@ -43,7 +43,7 @@ I am a dedicated and passionate researcher <b>seeking PhD opportunities</b> to a
 
 - **[Hyperedge Anomaly Detection with Hypergraph Neural Network](https://tanvirfahim15.github.io/Hyperedge_Anomaly_Detection_with_Hypergraph_Neural_Network__preprint_.pdf)** [2024]  
   **Md. Tanvir Alam**, Chowdhury Farhan Ahmed, and Carson Kai-Sang Leung  
-   Under Review 
+   Under Review [[pdf]](https://tanvirfahim15.github.io/Hyperedge_Anomaly_Detection_with_Hypergraph_Neural_Network__preprint_.pdf)
 
 - **[Discovering Interesting Patterns from Hypergraphs](https://dl.acm.org/doi/abs/10.1145/3622940)** [2023]  
   **Md. Tanvir Alam**, Chowdhury Farhan Ahmed, Md. Samiullah, and Carson Kai-Sang Leung  
