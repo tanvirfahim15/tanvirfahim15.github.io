@@ -23,10 +23,10 @@ I am currently working as a lecturer in the Department of Computer Science and E
 <br/><br/>
 I am a dedicated and passionate researcher <b>seeking PhD opportunities</b> to advance my expertise and contribute to innovative research. 
 <br/>
-<b>Profile Summary:</b>  
-GPA: 4.00/4.00 (MSc), 3.96/4.00 (BSc)  
-GRE: 326 (170 Q, 156 V, 4.0 AWA)  
-Publications: 3 journal papers, 3 conference papers, and more
+<b>Profile Summary:</b>  <br/>
+GPA: 4.00/4.00 (MSc), 3.96/4.00 (BSc)  <br/>
+GRE: 326 (170 Q, 156 V, 4.0 AWA)  <br/>
+Publications: 3 journal papers, 3 conference papers
 
 </div>
 
