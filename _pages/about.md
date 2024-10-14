@@ -53,7 +53,7 @@ Publications: 3 journal papers, 3 conference papers
   
 - **[Mining High Utility Subgraphs](https://ieeexplore.ieee.org/document/9679947)** [2021]  
   **Md. Tanvir Alam**, Amit Roy, Chowdhury Farhan Ahmed, Md. Ashraful Islam, and Carson Kai-Sang Leung  
-  Utility Driven Mining and Learning (UDML) Workshop at International Conference on Data Mining **(ICDM)**
+   International Conference on Data Mining **(ICDM)** Workshop on Utility Driven Mining and Learning
 
 - **[Discriminating frequent pattern based supervised graph embedding for classification](https://dl.acm.org/doi/10.1007/978-3-030-75765-6_2)** [2021]  
   **Md. Tanvir Alam**, Chowdhury Farhan Ahmed, Md. Samiullah, and Carson Kai-Sang Leung  
