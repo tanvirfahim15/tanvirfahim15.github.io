@@ -49,7 +49,11 @@ Publications: 3 journal papers, 3 conference papers
 
 - **[Discovering Interesting Patterns from Hypergraphs](https://dl.acm.org/doi/abs/10.1145/3622940)** [2023]  
   **Md. Tanvir Alam**, Chowdhury Farhan Ahmed, Md. Samiullah, and Carson Kai-Sang Leung  
-  ACM Transactions on Knowledge Discovery from Data 18 (1), 1-34 **(ACM TKDD)** 
+  ACM Transactions on Knowledge Discovery from Data 18 (1), 1-34 **(ACM TKDD)**
+  
+- **[Mining High Utility Subgraphs](https://ieeexplore.ieee.org/document/9679947)** [2021]  
+  **Md. Tanvir Alam**, Amit Roy, Chowdhury Farhan Ahmed, Md. Ashraful Islam, and Carson Kai-Sang Leung  
+  Utility Driven Mining and Learning (UDML) Workshop at International Conference on Data Mining **(ICDM)**
 
 - **[Discriminating frequent pattern based supervised graph embedding for classification](https://dl.acm.org/doi/10.1007/978-3-030-75765-6_2)** [2021]  
   **Md. Tanvir Alam**, Chowdhury Farhan Ahmed, Md. Samiullah, and Carson Kai-Sang Leung  
@@ -58,10 +62,6 @@ Publications: 3 journal papers, 3 conference papers
 - **[Mining frequent patterns from hypergraph databases](https://dl.acm.org/doi/abs/10.1007/978-3-030-75765-6_1)** [2021]  
   **Md. Tanvir Alam**, Chowdhury Farhan Ahmed, Md. Samiullah,, and Carson Kai-Sang Leung  
   25th Pacific-Asia Conference on Knowledge Discovery and Data Mining **(PAKDD)**
-
-- **[Mining High Utility Subgraphs](https://ieeexplore.ieee.org/document/9679947)** [2021]  
-  **Md. Tanvir Alam**, Amit Roy, Chowdhury Farhan Ahmed, Md. Ashraful Islam, and Carson Kai-Sang Leung  
-  2021 International Conference on Data Mining Workshops **(ICDMW)**
 
 - **[UGMINE: utility-based graph mining](https://link.springer.com/article/10.1007/s10489-022-03385-8)** [2022]  
   **Md. Tanvir Alam**, Amit Roy, Chowdhury Farhan Ahmed, Md. Ashraful Islam, and Carson Kai-Sang Leung  
