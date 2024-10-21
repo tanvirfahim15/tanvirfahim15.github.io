@@ -19,12 +19,12 @@ redirect_from:
 
 <div style="text-align: justify;">
   
-I am currently working as a lecturer in the Department of Computer Science and Engineering at the University of Dhaka, Bangladesh. I completed my Bachelor of Science and Master of Science degrees from the same institution with the highest CGPA. My undergraduate and master's theses were supervised by <a href="https://scholar.google.com/citations?user=0huuef0AAAAJ">Prof. Dr. Chowdhury Farhan Ahmed</a>. I have worked on several research projects and have published in journals and conferences, including <b>ACM Transactions on Knowledge Discovery from Data, PAKDD, and ICDM Workshops</b>, with over <b>180</b> citations. My research interests include, but are not limited to, <b>knowledge discovery from databases, and machine learning</b>, focusing primarily on graph data. I am a dedicated and passionate researcher <b>seeking PhD opportunities</b> to advance my expertise and contribute to innovative research. 
+I am currently working as a lecturer in the Department of Computer Science and Engineering at the University of Dhaka, Bangladesh. I completed my Bachelor of Science and Master of Science degrees from the same institution with the highest CGPA. My undergraduate and master's theses were supervised by <a href="https://scholar.google.com/citations?user=0huuef0AAAAJ">Prof. Dr. Chowdhury Farhan Ahmed</a>. I have worked on several research projects and have published in journals and conferences, including <b>ACM Transactions on Knowledge Discovery from Data, PAKDD, and ICDM Workshops</b>, with over <b>180</b> citations. My research interests lie at the intersection of <b>knowledge discovery from databases and machine learning</b>, focusing primarily, but not limited to, on graph-structured data. I am a dedicated and passionate researcher <b>seeking PhD opportunities</b> to advance my expertise and contribute to innovative research. 
 <br/><br/>
 <b>Profile Summary:</b>  <br/>
 GPA: 4.00/4.00 (MSc), 3.96/4.00 (BSc)  <br/>
 GRE: 326 (170 Q, 156 V, 4.0 AWA)  <br/>
-Publications: 3 journal papers, 3 conference papers
+Publications: three journal papers, three conference papers
 
 </div>
 
