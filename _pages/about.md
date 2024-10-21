@@ -24,7 +24,7 @@ I am currently working as a lecturer in the Department of Computer Science and E
 <b>Profile Summary:</b>  <br/>
 GPA: 4.00/4.00 (MSc), 3.96/4.00 (BSc)  <br/>
 GRE: 326 (170 Q, 156 V, 4.0 AWA)  <br/>
-Publications: three journal papers, three conference papers
+Publications: Three journal papers, three conference papers
 
 </div>
 
