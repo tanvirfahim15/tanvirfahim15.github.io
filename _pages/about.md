@@ -61,7 +61,7 @@ Published in: ACM TKDD, ICDM Workshops, PAKDD, etc.
   25th Pacific-Asia Conference on Knowledge Discovery and Data Mining **(PAKDD)**
 
 - **[Mining frequent patterns from hypergraph databases](https://dl.acm.org/doi/abs/10.1007/978-3-030-75765-6_1)** [2021]  
-  **Md. Tanvir Alam**, Chowdhury Farhan Ahmed, Md. Samiullah,, and Carson Kai-Sang Leung  
+  **Md. Tanvir Alam**, Chowdhury Farhan Ahmed, Md. Samiullah, and Carson Kai-Sang Leung  
   25th Pacific-Asia Conference on Knowledge Discovery and Data Mining **(PAKDD)**
 
 - **[UGMINE: utility-based graph mining](https://link.springer.com/article/10.1007/s10489-022-03385-8)** [2022]  
