@@ -39,6 +39,10 @@ I am currently working as a lecturer in the Department of Computer Science and E
 <span class='anchor' id='publications'></span>
 # 📚 Publications 
 
+- **[Rel-HNN: Split Parallel Hypergraph Neural Network for Learning on Relational Databases](https://arxiv.org/abs/2507.12562)** [2025]  
+  **Md. Tanvir Alam**, Md. Ahasanul Alam, Md Mahmudur Rahman, Md. Mosaddek Khan  
+   Under Review [[Preprint]](https://arxiv.org/abs/2507.12562)
+
 - **[Hyperedge Anomaly Detection with Hypergraph Neural Network](https://arxiv.org/abs/2412.05641)** [2024]  
   **Md. Tanvir Alam**, Chowdhury Farhan Ahmed, and Carson Kai-Sang Leung  
    Under Review [[Preprint]](https://arxiv.org/abs/2412.05641)
