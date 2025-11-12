@@ -116,7 +116,9 @@ Published in: ACM TKDD, ICDM Workshops, PAKDD, etc.
 
 <span class='anchor' id='awards'></span>
 # 🎖 Honors and Awards
-- [2022] - **Deans Award**, awarded by the Faculty of Engineering and Technology, University of Dhaka, for outstanding academic achievement in Bachelor of Science with honours.  
+- [2025] - **Dean's Award**, awarded by the Faculty of Engineering and Technology, University of Dhaka, in recognition of the outstanding excellence in research, academic, and co-curricular activities as a lecturer. 
+- [2025] - **DU Research Excellence Recognition**, awarded by the University of Dhaka in recognition of exemplary contribution to scholarly excellence through high-quality research publications.
+- [2022] - **Dean's Award**, awarded by the Faculty of Engineering and Technology, University of Dhaka, for outstanding academic achievement in Bachelor of Science with honours.  
 - [2022] - **Azfar Alam Memorial Gold Medal**, awarded by the University of Dhaka for obtaining the highest CGPA in the Bachelor of Science examination of 2019.  
 - [2022] - **Talentpool Scholarship**, awarded by the Directorate of Secondary and Higher Education, Government of Bangladesh, for obtaining the highest CGPA in the Bachelor of Science examination.  
 - [2022] - **Professor Lutfar Rahman Merit Award**, Awarded by the Department of Computer Science and Engineering, University of Dhaka, for securing the highest CGPA in the Bachelor of Science examination of 2019.
