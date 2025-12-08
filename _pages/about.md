@@ -45,7 +45,7 @@ Published in: ACM TKDD, ICDM Workshops, PAKDD, etc.
 
 - **[Rel-HNN: Split Parallel Hypergraph Neural Network for Learning on Relational Databases](https://arxiv.org/abs/2507.12562)** [2025]  
   **Md. Tanvir Alam**, Md. Ahasanul Alam, Md Mahmudur Rahman, Md. Mosaddek Khan  
-   Under Review [[Preprint]](https://arxiv.org/abs/2507.12562)
+   Submitted to Transactions on Machine Learning Research (TMLR), 2025 [[Preprint]](https://arxiv.org/abs/2507.12562)
 
 - **[Hyperedge Anomaly Detection with Hypergraph Neural Network](https://arxiv.org/abs/2412.05641)** [2024]  
   **Md. Tanvir Alam**, Chowdhury Farhan Ahmed, and Carson Kai-Sang Leung  
