@@ -43,7 +43,7 @@ Published in: ACM TKDD, ICDM Workshops, PAKDD, etc.
 <span class='anchor' id='publications'></span>
 # 📚 Publications 
 
-- **[Rel-HNN: Split Parallel Hypergraph Neural Network for Learning on Relational Databases](https://arxiv.org/abs/2507.12562)** [2025]  
+- **[Rel-HNN: Split Parallel Hypergraph Neural Network for Learning on Relational Databases](https://openreview.net/pdf?id=L7VP7gxpVG)** [2025]  
   **Md. Tanvir Alam**, Md. Ahasanul Alam, Md Mahmudur Rahman, Md. Mosaddek Khan  
    Transactions on Machine Learning Research **(TMLR)**
 
