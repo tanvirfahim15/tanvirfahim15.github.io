@@ -19,7 +19,7 @@ redirect_from:
 
 <div style="text-align: justify;">
   
-I am currently working as a lecturer in the Department of Computer Science and Engineering at the University of Dhaka, Bangladesh. I completed my Bachelor of Science and Master of Science degrees from the same institution with the highest CGPA. I have worked on several research projects and have published in journals and conferences, including <b>ACM Transactions on Knowledge Discovery from Data, PAKDD, and ICDM Workshops</b>, with over 200 citations. My broad goal is to develop efficient machine learning and data-centric intelligent systems that enhance effective knowledge discovery. Specifically, my current research focuses on designing efficient large language model–based agents that combine systems-level optimizations with retrieval-augmented reasoning over structured data to support agentic knowledge discovery.
+I am currently working as a lecturer in the Department of Computer Science and Engineering at the University of Dhaka, Bangladesh. I completed my Bachelor of Science and Master of Science degrees from the same institution with the highest CGPA. I have worked on several research projects and have published in journals and conferences, including <b>TMLR, ACM TKDD, PAKDD, and ICDM Workshops</b>, with over 200 citations. My broad goal is to develop efficient machine learning and data-centric intelligent systems that enhance effective knowledge discovery. Specifically, my current research focuses on designing efficient large language model–based agents that combine systems-level optimizations with retrieval-augmented reasoning over structured data to support agentic knowledge discovery.
 <br/><br/>
 <b>Profile Summary:</b>  <br/>
 GPA: 4.00/4.00 (MSc), 3.96/4.00 (BSc)  <br/>
